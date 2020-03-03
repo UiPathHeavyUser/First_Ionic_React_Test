@@ -5,7 +5,7 @@ import './Tab3.css';
  
 const bands = [
 	{ link: 'https://www.ilosaarirock.fi/2020/ohjelma/img/ilosaarirock-2020-amorphis.jpg',
-	  name: 'Amorphis'},
+      name: 'Amorphis'},
 	{ link: 'https://www.ilosaarirock.fi/2020/ohjelma/img/ilosaarirock-2020-antti-tuisku.jpg',
       name: 'Antti Tuisku'},
 	{ link: 'https://www.ilosaarirock.fi/2020/ohjelma/img/ilosaarirock-2020-battle-beast.jpg',
